@@ -1,1 +1,8 @@
-org\Modulo1\App.class
+org\Modulo1\Cliente.class
+org\Modulo1\Principal.class
+org\Modulo1\Taller.class
+org\Modulo1\Turno$Estado.class
+org\Modulo1\JefeTaller.class
+org\Modulo1\Mecanico.class
+org\Modulo1\Box.class
+org\Modulo1\Turno.class
